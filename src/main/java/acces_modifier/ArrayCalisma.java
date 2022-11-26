@@ -75,6 +75,7 @@ int sum=0;
                 System.out.print(w);
             }
             int a=5;
+            String isim="fatma";
 
         }
 
