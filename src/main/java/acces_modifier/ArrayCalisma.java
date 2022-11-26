@@ -74,6 +74,7 @@ int sum=0;
             if (w>'A'&& w<'Z'){
                 System.out.print(w);
             }
+            int a=5;
 
         }
 
