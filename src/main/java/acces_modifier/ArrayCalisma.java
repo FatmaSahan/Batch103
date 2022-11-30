@@ -77,6 +77,9 @@ int sum=0;
             int a=5;
             String isim="fatma";
 
+
+            int yas=34;
+
         }
 
     }
