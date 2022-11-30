@@ -80,9 +80,12 @@ int sum=0;
 
             int yas=34;
 
+            int cocuk=5;
+
         }
 
     }
+
 
 
 
