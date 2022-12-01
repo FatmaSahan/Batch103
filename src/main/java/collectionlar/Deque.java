@@ -26,3 +26,4 @@ public class Deque<S> {
         System.out.println(furnitureTruck);
             int yas=38;
 }}
+//git commit -am"f7" add ve commit birlikte yapilir
