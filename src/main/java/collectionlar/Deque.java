@@ -24,4 +24,5 @@ public class Deque<S> {
 
         furnitureTruck.push("table");//Elemani ilk siraya ekler
         System.out.println(furnitureTruck);
+            int yas=38;
 }}
